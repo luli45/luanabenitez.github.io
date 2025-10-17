@@ -1,0 +1,36 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shadow -->
+  <ellipse cx="300" cy="550" rx="250" ry="30" fill="#E0E0E0" opacity="0.3"/>
+  
+  <!-- Left Document (Dark) -->
+  <path d="M100 100 L100 450 C100 460 105 465 115 465 L240 465 L240 100 C240 90 235 85 225 85 L115 85 C105 85 100 90 100 100 Z" fill="#3A3A3A"/>
+  
+  <!-- Left Document Lines -->
+  <line x1="130" y1="150" x2="210" y2="150" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <line x1="130" y1="190" x2="210" y2="190" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <line x1="130" y1="230" x2="210" y2="230" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <line x1="130" y1="270" x2="210" y2="270" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <line x1="130" y1="310" x2="210" y2="310" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <line x1="130" y1="350" x2="210" y2="350" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <line x1="130" y1="390" x2="210" y2="390" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Left Document Header -->
+  <rect x="130" y="110" width="50" height="20" rx="5" fill="white"/>
+  
+  <!-- Right Document (Blue) -->
+  <path d="M360 85 L360 450 C360 460 365 465 375 465 L485 465 C495 465 500 460 500 450 L500 100 C500 90 495 85 485 85 L375 85 Z" fill="#2B8FB8" transform="rotate(15 430 275)"/>
+  
+  <!-- Right Document Lines -->
+  <g transform="rotate(15 430 275)">
+    <line x1="390" y1="150" x2="470" y2="150" stroke="white" stroke-width="8" stroke-linecap="round"/>
+    <line x1="390" y1="190" x2="470" y2="190" stroke="white" stroke-width="8" stroke-linecap="round"/>
+    <line x1="390" y1="230" x2="470" y2="230" stroke="white" stroke-width="8" stroke-linecap="round"/>
+    <line x1="390" y1="270" x2="470" y2="270" stroke="white" stroke-width="8" stroke-linecap="round"/>
+    <line x1="390" y1="310" x2="470" y2="310" stroke="white" stroke-width="8" stroke-linecap="round"/>
+    <line x1="390" y1="350" x2="470" y2="350" stroke="white" stroke-width="8" stroke-linecap="round"/>
+    <line x1="390" y1="390" x2="470" y2="390" stroke="white" stroke-width="8" stroke-linecap="round"/>
+    
+    <!-- Right Document Header -->
+    <rect x="390" y="110" width="50" height="20" rx="5" fill="white"/>
+  </g>
+</svg>
